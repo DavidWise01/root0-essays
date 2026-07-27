@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1356
 slug  : root0-essays
-seal  : 6b785a19c9dce56898fb9ddc1de877c2ae98f9f7c847a68fb40f7e41ed4e2db9
-prev  : a36fe4657c085edcb7d97971a66f7e351fbe492ca670396248ecbbdcc2e831db
-link  : d1e4f46e74c98dc080302adbf4780e54e4ab66d2c6b76eb476a491b997ee12f3
-head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+seal  : 2949c21b1d3ccaedbd2357ad0402f36b5f1864fb5e439d836372f2fe4926aed1
+prev  : 46633c0a1d1663068c93cd4b1c0c27c1d0b6d55d96581955c460352406a3ec7a
+link  : 144f1ad85a207eb268f08a18a98b96094ab5dcbc29e15add59b033aeff1e49e1
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
